@@ -17,6 +17,9 @@ $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 ```
 sudo apt-get install docker-ce
 ```
+
+```sudo start docker```
+
 For OS X
 
 ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
